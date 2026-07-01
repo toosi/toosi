@@ -25,7 +25,7 @@ A recurring thread is **computational psychiatry**: applying these models to vis
 
 | Project | Description | Links |
 |---|---|---|
-| **Generative Inference & Perception** | A single model unifying feedback processing for learning and perception in natural and artificial vision. Under review at *Nature Neuroscience*. | [Code](https://github.com/toosi/Generative_Inference_Perception) · [Paper](https://www.biorxiv.org/content/10.1101/2025.10.21.683535v2) · [Demo](https://huggingface.co/spaces/ttoosi/GenerativeInferenceDemo) |
+| **Generative Inference & Perception** | A single model unifying feedback processing for learning and perception in natural and artificial vision. Under review. | [Code](https://github.com/toosi/Generative_Inference_Perception) · [Paper](https://www.biorxiv.org/content/10.1101/2025.10.21.683535v2) · [Demo](https://huggingface.co/spaces/ttoosi/GenerativeInferenceDemo) |
 | **Feedback-Feedforward Alignment** | Brain-like flexible visual inference by aligning feedback and feedforward pathways. *NeurIPS 2023.* | [Code](https://github.com/toosi/Feedback_Feedforward_Alignment) · [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11567678/) |
 | **Symbiotic Learning** | A bio-friendly alternative to backpropagation for training deep networks. | [Code](https://github.com/toosi/symbiotic-learning) |
 | **Prior-Guided Drift Diffusion** | Interpretability at the network level for neural circuit analysis. *NeurIPS 2025, Mechanistic Interpretability Workshop.* | [Paper](https://openreview.net/forum?id=vL28JhJDEM) |
